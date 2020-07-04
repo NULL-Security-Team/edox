@@ -3,7 +3,7 @@ Info Bash Template For DOX to output to .txt
 
 
 
-![edox](https://user-images.githubusercontent.com/48811414/86501334-ec42df80-bd8f-11ea-832e-bba43f10465f.PNG)
+![edox](https://user-images.githubusercontent.com/48811414/86503369-574ae100-bda5-11ea-841c-d7ec51028114.PNG)
 
 # Installation / Usage
 - `git clone https://github.com/NULL-Security-Team/edox`
